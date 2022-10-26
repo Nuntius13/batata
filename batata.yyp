@@ -11,6 +11,7 @@
     {"id":{"name":"OPizza","path":"objects/OPizza/OPizza.yy",},"order":1,},
     {"id":{"name":"sbatata","path":"sprites/sbatata/sbatata.yy",},"order":0,},
     {"id":{"name":"SBtata2","path":"sprites/SBtata2/SBtata2.yy",},"order":3,},
+    {"id":{"name":"sfundo","path":"sprites/sfundo/sfundo.yy",},"order":4,},
     {"id":{"name":"Ambiente1","path":"rooms/Ambiente1/Ambiente1.yy",},"order":0,},
   ],
   "Options": [

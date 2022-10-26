@@ -5,13 +5,15 @@
   "resources": [
     {"id":{"name":"Obatata","path":"objects/Obatata/Obatata.yy",},"order":0,},
     {"id":{"name":"STortilha","path":"sprites/STortilha/STortilha.yy",},"order":2,},
-    {"id":{"name":"OTortilha","path":"objects/OTortilha/OTortilha.yy",},"order":2,},
+    {"id":{"name":"otortinha","path":"objects/otortinha/otortinha.yy",},"order":4,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
+    {"id":{"name":"OTortilhamov","path":"objects/OTortilhamov/OTortilhamov.yy",},"order":2,},
     {"id":{"name":"sPIzza","path":"sprites/sPIzza/sPIzza.yy",},"order":1,},
-    {"id":{"name":"Obatataand","path":"objects/Obatataand/Obatataand.yy",},"order":4,},
+    {"id":{"name":"Smovi","path":"sprites/Smovi/Smovi.yy",},"order":5,},
+    {"id":{"name":"Obatataand","path":"objects/Obatataand/Obatataand.yy",},"order":3,},
     {"id":{"name":"OPizza","path":"objects/OPizza/OPizza.yy",},"order":1,},
     {"id":{"name":"sbatata","path":"sprites/sbatata/sbatata.yy",},"order":0,},
     {"id":{"name":"SBtata2","path":"sprites/SBtata2/SBtata2.yy",},"order":3,},
-    {"id":{"name":"sfundo","path":"sprites/sfundo/sfundo.yy",},"order":4,},
     {"id":{"name":"Ambiente1","path":"rooms/Ambiente1/Ambiente1.yy",},"order":0,},
   ],
   "Options": [
